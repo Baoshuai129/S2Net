@@ -4,7 +4,7 @@ from torch.autograd import Variable
 import argparse
 from torch.backends import cudnn
 from utils.utils2 import *
-from model import Net
+from model_gpu3 import Net
 import time
 
 def parse_args():

@@ -1,4 +1,3 @@
 Dataset----     HCI17,	 PSNR---39.476681,	 SSIM---0.987422
 Dataset----     HCI28,	 PSNR---39.406493,	 SSIM---0.987425
-Dataset----   HCI_new,	 PSNR---38.202055,	 SSIM---0.985193
 Dataset----   HCI_old,	 PSNR---43.892899,	 SSIM---0.992477
